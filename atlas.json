@@ -1,0 +1,30 @@
+{
+  "files": [
+    "gist_test.html",
+    "README.md",
+    "10_scatterplot.html"
+  ],
+  "formats": {
+    "pdf": {
+      "version": false,
+      "index": false,
+      "toc": false
+    },
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false
+    },
+    "html": {
+      "index": false,
+      "toc": false,
+      "consolidated": false
+    }
+  },
+  "theme": "",
+  "title": "scattered scatterplot"
+}
