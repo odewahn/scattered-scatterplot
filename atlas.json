@@ -1,8 +1,7 @@
 {
   "files": [
-    "gist_test.html",
     "README.md",
-    "10_scatterplot.html"
+    "gist_test.html"
   ],
   "formats": {
     "pdf": {
